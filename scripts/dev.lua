@@ -18,7 +18,7 @@ if fs.isDir(".zap") then
     executeCommand("zap", {"src/server/network.zap"})
 end
 
-task.spawn(executeCommand, "rojo", { "sourcemap", "./default.project.json", "-o", "sourcemap.json", "--watch" })
+task.spawn(executeCommand, "rojo", { "sourcemap", "./sourcemap.project.json", "-o", "sourcemap.json", "--watch" })
 task.wait(0.5) -- allow the sourcemap to be generated (prevents an annoying error)
 
 if fs.isFile(".darklua.json") then
@@ -27,4 +27,4 @@ if fs.isFile(".darklua.json") then
     task.wait(0.5) -- allow darklua to generate a build, so that rojo doesn't refer to unknown paths and error
 end
 
-task.spawn(executeCommand, "rojo", { "serve", fs.isFile("dev.project.json") and "dev.project.json" or "default.project.json" })
+task.spawn(executeCommand, "rojo", { "serve", fs.isFile("dev.project.json") and "dev.project.json" or "sourcemap.project.json" })

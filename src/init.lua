@@ -1,6 +1,6 @@
 local lucideRoblox = {}
 
-local icons = require("icons")
+local icons = require("./icons")
 local iconIndices: { string } = icons[1]
 local idIndices: { number } = icons[2]
 local iconRegistry: { [number]: { number | { number } } } = icons[3]

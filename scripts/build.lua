@@ -28,11 +28,11 @@ process.env.RBLX_DEV = "false"
 
 if not fs.isDir("build") then
 	print("Creating build directory..")
-	executeCommand("rojo", { "sourcemap", "default.project.json", "-o", "sourcemap.json" })
+	executeCommand("rojo", { "sourcemap", "sourcemap.project.json", "-o", "sourcemap.json" })
 	executeCommand("darklua", { "process", "src", "build" })
 end
 
-executeCommand("rojo", { "sourcemap", "default.project.json", "-o", "sourcemap.json" })
+executeCommand("rojo", { "sourcemap", "sourcemap.project.json", "-o", "sourcemap.json" })
 
 if hasDarkLua then
 	executeCommand("darklua", { "process", "src", "build" })
@@ -43,4 +43,4 @@ if fs.isDir("build/client/ui/stories") then
 	fs.removeDir("build/client/ui/stories")
 end
 
-executeCommand("rojo", { "build", `{buildPath}.project.json`, "-o", "build.rbxm" })
+executeCommand("rojo", { "build", `{buildPath}.project.json`, "-o", "out.rbxm" })

@@ -1,7 +1,16 @@
 [package]
-name = "virtualbutfake/lucideroblox"
-version = "0.1.0"
+name = "virtualbutfake/lucide-roblox"
+version = "1.0.5"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+include = [
+    "build",
+    "build**",
+    "LICENSE.md",
+    "wally.toml",
+    "default.project.json",
+    "sourcemap.json",
+]
+exclude = ["*"]
 
 [dependencies]
