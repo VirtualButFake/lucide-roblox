@@ -4,7 +4,7 @@
 
 A simple library for easy access to the entire [Lucide Icons](https://lucide.dev/icons/) set, in Roblox.
 
-[![CI](https://github.com/virtualbutfake/lucide-roblox/actions/workflows/ci.yml/badge.svg)](https://github.com/virtualbutfake/lucide-roblox/actions)
+[![CI](https://github.com/virtualbutfake/lucide-roblox/actions/workflows/ci.yaml/badge.svg)](https://github.com/virtualbutfake/lucide-roblox/actions)
 </div>
 
 [![Wally](./assets/wally-badge.svg)](https://wally.run/package/virtualbutfake/lucide-roblox)
