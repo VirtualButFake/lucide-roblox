@@ -22,7 +22,6 @@ if not fs.isDir("packages") and not fs.isDir("Packages") and fs.isFile("wally.to
 end
 
 local hasDarkLua = fs.isFile(".darklua.json")
-local buildPath = hasDarkLua and "build" or "default"
 
 process.env.RBLX_DEV = "false"
 
@@ -43,4 +42,4 @@ if fs.isDir("build/client/ui/stories") then
 	fs.removeDir("build/client/ui/stories")
 end
 
-executeCommand("rojo", { "build", `{buildPath}.project.json`, "-o", "out.rbxm" })
+executeCommand("rojo", { "build", "default.project.json", "-o", "out.rbxm" })
