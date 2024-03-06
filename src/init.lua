@@ -28,11 +28,11 @@ function lucideRoblox.GetAsset(name: string, size: number?): icon?
 			local icon = iconList[iconIndex]
 
 			return {
-				name = name,
-				id = idIndices[icon[1]],
-				url = "rbxassetid://" .. idIndices[icon[1]],
-				imageRectSize = Vector2.new(icon[2][1], icon[2][1]),
-				imageRectOffset = Vector2.new(icon[3][1], icon[3][2]),
+				IconName = name,
+				Id = idIndices[icon[1]],
+				Url = "rbxassetid://" .. idIndices[icon[1]],
+				ImageRectSize = Vector2.new(icon[2][1], icon[2][1]),
+				ImageRectOffset = Vector2.new(icon[3][1], icon[3][2]),
 			}
 		end
 	end
@@ -41,11 +41,11 @@ function lucideRoblox.GetAsset(name: string, size: number?): icon?
 end
 
 type icon = {
-	name: string,
-	id: string,
-	url: string,
-	imageRectSize: Vector2,
-	imageRectOffset: Vector2,
+	IconName: string, -- "icon-name"
+	Id: number, -- 123456789
+	Url: string, -- "rbxassetid://123456789"
+	ImageRectSize: Vector2, -- Vector2.new(48, 48)
+	ImageRectOffset: Vector2, -- Vector2.new(648, 266)
 }
 
 return lucideRoblox
