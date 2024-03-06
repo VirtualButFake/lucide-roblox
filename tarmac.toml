@@ -1,0 +1,5 @@
+name = "lucide-roblox"
+
+[[inputs]]
+glob = "icons/processed/**/*.png"
+packable = true

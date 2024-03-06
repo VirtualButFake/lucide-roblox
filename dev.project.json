@@ -1,0 +1,14 @@
+{
+	"name": "lucide-roblox",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Packages": {
+				"$path": "packages",
+				"lucide-roblox": {
+					"$path": "build"
+				}
+			}
+		}
+	}
+}

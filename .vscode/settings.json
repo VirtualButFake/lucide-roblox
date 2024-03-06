@@ -1,0 +1,11 @@
+{
+  "[lua]": {
+    "editor.defaultFormatter": "JohnnyMorganz.stylua",
+    "editor.formatOnSave": true
+  },
+  "luau-lsp.require.mode": "relativeToFile",
+  "luau-lsp.require.directoryAliases": {
+    "@packages": "packages",
+    "@lune/": "~/.lune/.typedefs/0.8.0/"
+  }
+}

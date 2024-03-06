@@ -1,0 +1,1 @@
+start /b magick convert -channel RGB -negate -background none -size %1x%1 %2 %3
