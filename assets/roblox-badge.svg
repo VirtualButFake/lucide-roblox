@@ -12,7 +12,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1613" /><sodipodi:namedview
+     id="defs1613" >
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900')
+        </style>
+     </defs><sodipodi:namedview
      id="namedview1611"
      pagecolor="#ffffff"
      bordercolor="#000000"
