@@ -111,7 +111,18 @@ local function uploadImage(name: string, path: string): string?
 
 		logger.Success(`Uploaded image successfully: {path}`)
 
-		return operationData.response.assetId
+        local decalId = operationData.response.assetId
+        local xmlContent = net.request({
+            url = "https://assetdelivery.roblox.com/v1/asset/?id=" .. decalId,
+            method = "GET",
+        })
+
+        if not xmlContent.ok then 
+            logger.Error("Failed to get image id")
+            return 
+        end
+
+		return xmlContent.body:match("<url>(.-)</url>"):match("%d+$")
 	end
 
 	return ""

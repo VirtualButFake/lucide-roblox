@@ -39,11 +39,20 @@ for name: string, data: {
 		iconData[sizing] = {}
 	end
 
+	-- from lucide-roblox https://github.com/latte-soft/lucide-roblox/blob/7a3085de0b0ffe200940113986fa3c3db186f06e/lune/tarmac-sync.luau#L57
+	local ImageRectOffset = data.slice[1]
+	local ImageRectOffsetBounds = data.slice[2]
+
+	local OffsetX, OffsetY = ImageRectOffset[1], ImageRectOffset[2]
+
+	local SizeX = ImageRectOffsetBounds[1] - OffsetX
+	local SizeY = ImageRectOffsetBounds[2] - OffsetY
+
 	table.insert(iconData[sizing], {
 		name = iconName,
 		data.id,
-		data.slice[1],
-		data.slice[2],
+		{ SizeX, SizeY },
+		{ OffsetX, OffsetY },
 	})
 end
 
