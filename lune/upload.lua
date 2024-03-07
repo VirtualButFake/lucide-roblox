@@ -111,18 +111,18 @@ local function uploadImage(name: string, path: string): string?
 
 		logger.Success(`Uploaded image successfully: {path}`)
 
-        local decalId = operationData.response.assetId
-        local xmlContent = net.request({
-            url = "https://assetdelivery.roblox.com/v1/asset/?id=" .. decalId,
-            method = "GET",
-        })
+		local decalId = operationData.response.assetId
+		local xmlContent = net.request({
+			url = "https://assetdelivery.roblox.com/v1/asset/?id=" .. decalId,
+			method = "GET",
+		})
 
-        if not xmlContent.ok then 
-            logger.Error("Failed to get image id")
-            return 
-        end
+		if not xmlContent.ok then
+			logger.Error("Failed to get image id")
+			return
+		end
 
-		return xmlContent.body:match("<url>(.-)</url>"):match("%d+$")
+		return xmlContent.body:match("<url>(.-)</url>"):sub(33)
 	end
 
 	return ""
@@ -149,7 +149,8 @@ for image, _ in neededImages do
 			end
 		end
 
-        local replacedContent = fs.readFile("tarmac-manifest.toml"):gsub(`id = {image}`, `id = {id}`)
-        fs.writeFile("tarmac-manifest.toml", replacedContent)
+		print(image, id)
+		local replacedContent = fs.readFile("tarmac-manifest.toml"):gsub(`id = {image}\n`, `id = {id}\n`)
+		fs.writeFile("tarmac-manifest.toml", replacedContent)
 	end
 end
