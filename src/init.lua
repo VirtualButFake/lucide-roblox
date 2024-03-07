@@ -7,7 +7,7 @@ local iconRegistry: { [number]: { number | { number } } } = icons[3]
 
 lucideRoblox.icons = iconIndices
 
-function lucideRoblox.GetAsset(name: string, size: number?): icon?
+function lucideRoblox.GetAsset(name: string, size: number?): icon | {}
 	if not size then
 		size = 48
 	end
@@ -15,7 +15,7 @@ function lucideRoblox.GetAsset(name: string, size: number?): icon?
 	local iconIndex = table.find(iconIndices, name)
 
 	if not iconIndex then
-		return
+		return {}
 	end
 
 	local currentDifference = math.huge
@@ -31,6 +31,10 @@ function lucideRoblox.GetAsset(name: string, size: number?): icon?
 	end
 
 	local icon = iconRegistry[currentSize][iconIndex]
+
+	if icon == nil then
+		return {}
+	end
 
 	return {
 		IconName = name,
