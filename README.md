@@ -21,7 +21,7 @@ This library would not have existed without [this](https://github.com/latte-soft
 
 ### Wally (recommended)
 
-lucide-roblox is available on Wally, and can be installed by adding `lucide-roblox = "virtualbutfake/lucide-roblox@1.0.8"` to your wally.toml.
+lucide-roblox is available on Wally, and can be installed by adding `lucide-roblox = "virtualbutfake/lucide-roblox@1.0.9"` to your wally.toml.
 
 ### Roblox
 
