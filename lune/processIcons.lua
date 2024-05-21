@@ -1,5 +1,5 @@
 -- The sizes to export
-local sizes = { 16, 24, 48, 64 }
+local sizes = { 12, 16, 24, 48, 64 }
 local inputFolder = "icons/svg/"
 local outputFolder = "icons/processed/"
 
