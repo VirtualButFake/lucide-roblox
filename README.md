@@ -4,7 +4,8 @@
 
 A simple library for easy access to the entire [Lucide Icons](https://lucide.dev/icons/) set, in Roblox.
 
-[![CI](https://github.com/virtualbutfake/lucide-roblox/actions/workflows/ci.yaml/badge.svg)](https://github.com/virtualbutfake/lucide-roblox/actions)
+[![License](https://img.shields.io/github/license/virtualbutfake/lucide-roblox)](https://github.com/VirtualButFake/lucide-roblox/blob/master/LICENSE.md)
+[![CI](https://github.com/virtualbutfake/lucide-roblox/actions/workflows/ci.yml/badge.svg)](https://github.com/virtualbutfake/lucide-roblox/actions)
 
 </div>
 
@@ -21,7 +22,7 @@ This library would not have existed without [this](https://github.com/latte-soft
 
 ### Wally (recommended)
 
-lucide-roblox is available on Wally, and can be installed by adding `lucide-roblox = "virtualbutfake/lucide-roblox@1.1.1"` to your wally.toml.
+lucide-roblox is available on Wally, and can be installed by adding `lucide-roblox = "virtualbutfake/lucide-roblox@1.1.2"` to your wally.toml.
 
 ### Roblox
 
@@ -51,3 +52,4 @@ This will pull the latest icons, process them, add them to Tarmac and update the
 ## License
 
 lucide-roblox is licensed under the MIT License. See [LICENSE](./LICENSE.md) for more information.
+Lucide Icons is licensed under the [ISC License](https://github.com/lucide-icons/lucide/blob/main/LICENSE).
