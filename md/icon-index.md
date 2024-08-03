@@ -51,6 +51,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/ambulance.png" /> | `ambulance` |
 | <img width="24px" src="../icons/processed/48px/ampersand.png" /> | `ampersand` |
 | <img width="24px" src="../icons/processed/48px/ampersands.png" /> | `ampersands` |
+| <img width="24px" src="../icons/processed/48px/amphora.png" /> | `amphora` |
 | <img width="24px" src="../icons/processed/48px/anchor.png" /> | `anchor` |
 | <img width="24px" src="../icons/processed/48px/angry.png" /> | `angry` |
 | <img width="24px" src="../icons/processed/48px/annoyed.png" /> | `annoyed` |
@@ -264,6 +265,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/between-horizontal-start.png" /> | `between-horizontal-start` |
 | <img width="24px" src="../icons/processed/48px/between-vertical-end.png" /> | `between-vertical-end` |
 | <img width="24px" src="../icons/processed/48px/between-vertical-start.png" /> | `between-vertical-start` |
+| <img width="24px" src="../icons/processed/48px/biceps-flexed.png" /> | `biceps-flexed` |
 | <img width="24px" src="../icons/processed/48px/bike.png" /> | `bike` |
 | <img width="24px" src="../icons/processed/48px/binary.png" /> | `binary` |
 | <img width="24px" src="../icons/processed/48px/biohazard.png" /> | `biohazard` |
@@ -339,9 +341,12 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/cake-slice.png" /> | `cake-slice` |
 | <img width="24px" src="../icons/processed/48px/cake.png" /> | `cake` |
 | <img width="24px" src="../icons/processed/48px/calculator.png" /> | `calculator` |
+| <img width="24px" src="../icons/processed/48px/calendar-arrow-down.png" /> | `calendar-arrow-down` |
+| <img width="24px" src="../icons/processed/48px/calendar-arrow-up.png" /> | `calendar-arrow-up` |
 | <img width="24px" src="../icons/processed/48px/calendar-check-2.png" /> | `calendar-check-2` |
 | <img width="24px" src="../icons/processed/48px/calendar-check.png" /> | `calendar-check` |
 | <img width="24px" src="../icons/processed/48px/calendar-clock.png" /> | `calendar-clock` |
+| <img width="24px" src="../icons/processed/48px/calendar-cog.png" /> | `calendar-cog` |
 | <img width="24px" src="../icons/processed/48px/calendar-days.png" /> | `calendar-days` |
 | <img width="24px" src="../icons/processed/48px/calendar-fold.png" /> | `calendar-fold` |
 | <img width="24px" src="../icons/processed/48px/calendar-heart.png" /> | `calendar-heart` |
@@ -377,6 +382,28 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/castle.png" /> | `castle` |
 | <img width="24px" src="../icons/processed/48px/cat.png" /> | `cat` |
 | <img width="24px" src="../icons/processed/48px/cctv.png" /> | `cctv` |
+| <img width="24px" src="../icons/processed/48px/chart-area.png" /> | `chart-area` |
+| <img width="24px" src="../icons/processed/48px/chart-bar-big.png" /> | `chart-bar-big` |
+| <img width="24px" src="../icons/processed/48px/chart-bar-decreasing.png" /> | `chart-bar-decreasing` |
+| <img width="24px" src="../icons/processed/48px/chart-bar-increasing.png" /> | `chart-bar-increasing` |
+| <img width="24px" src="../icons/processed/48px/chart-bar-stacked.png" /> | `chart-bar-stacked` |
+| <img width="24px" src="../icons/processed/48px/chart-bar.png" /> | `chart-bar` |
+| <img width="24px" src="../icons/processed/48px/chart-candlestick.png" /> | `chart-candlestick` |
+| <img width="24px" src="../icons/processed/48px/chart-column-big.png" /> | `chart-column-big` |
+| <img width="24px" src="../icons/processed/48px/chart-column-decreasing.png" /> | `chart-column-decreasing` |
+| <img width="24px" src="../icons/processed/48px/chart-column-increasing.png" /> | `chart-column-increasing` |
+| <img width="24px" src="../icons/processed/48px/chart-column-stacked.png" /> | `chart-column-stacked` |
+| <img width="24px" src="../icons/processed/48px/chart-column.png" /> | `chart-column` |
+| <img width="24px" src="../icons/processed/48px/chart-line.png" /> | `chart-line` |
+| <img width="24px" src="../icons/processed/48px/chart-network.png" /> | `chart-network` |
+| <img width="24px" src="../icons/processed/48px/chart-no-axes-column-decreasing.png" /> | `chart-no-axes-column-decreasing` |
+| <img width="24px" src="../icons/processed/48px/chart-no-axes-column-increasing.png" /> | `chart-no-axes-column-increasing` |
+| <img width="24px" src="../icons/processed/48px/chart-no-axes-column.png" /> | `chart-no-axes-column` |
+| <img width="24px" src="../icons/processed/48px/chart-no-axes-combined.png" /> | `chart-no-axes-combined` |
+| <img width="24px" src="../icons/processed/48px/chart-no-axes-gantt.png" /> | `chart-no-axes-gantt` |
+| <img width="24px" src="../icons/processed/48px/chart-pie.png" /> | `chart-pie` |
+| <img width="24px" src="../icons/processed/48px/chart-scatter.png" /> | `chart-scatter` |
+| <img width="24px" src="../icons/processed/48px/chart-spline.png" /> | `chart-spline` |
 | <img width="24px" src="../icons/processed/48px/check-check.png" /> | `check-check` |
 | <img width="24px" src="../icons/processed/48px/check-circle-2.png" /> | `check-circle-2` |
 | <img width="24px" src="../icons/processed/48px/check-circle.png" /> | `check-circle` |
@@ -433,6 +460,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/circle-dot.png" /> | `circle-dot` |
 | <img width="24px" src="../icons/processed/48px/circle-ellipsis.png" /> | `circle-ellipsis` |
 | <img width="24px" src="../icons/processed/48px/circle-equal.png" /> | `circle-equal` |
+| <img width="24px" src="../icons/processed/48px/circle-fading-arrow-up.png" /> | `circle-fading-arrow-up` |
 | <img width="24px" src="../icons/processed/48px/circle-fading-plus.png" /> | `circle-fading-plus` |
 | <img width="24px" src="../icons/processed/48px/circle-gauge.png" /> | `circle-gauge` |
 | <img width="24px" src="../icons/processed/48px/circle-help.png" /> | `circle-help` |
@@ -478,6 +506,8 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/clock-7.png" /> | `clock-7` |
 | <img width="24px" src="../icons/processed/48px/clock-8.png" /> | `clock-8` |
 | <img width="24px" src="../icons/processed/48px/clock-9.png" /> | `clock-9` |
+| <img width="24px" src="../icons/processed/48px/clock-arrow-down.png" /> | `clock-arrow-down` |
+| <img width="24px" src="../icons/processed/48px/clock-arrow-up.png" /> | `clock-arrow-up` |
 | <img width="24px" src="../icons/processed/48px/clock.png" /> | `clock` |
 | <img width="24px" src="../icons/processed/48px/cloud-cog.png" /> | `cloud-cog` |
 | <img width="24px" src="../icons/processed/48px/cloud-download.png" /> | `cloud-download` |
@@ -553,6 +583,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/cup-soda.png" /> | `cup-soda` |
 | <img width="24px" src="../icons/processed/48px/currency.png" /> | `currency` |
 | <img width="24px" src="../icons/processed/48px/cylinder.png" /> | `cylinder` |
+| <img width="24px" src="../icons/processed/48px/dam.png" /> | `dam` |
 | <img width="24px" src="../icons/processed/48px/database-backup.png" /> | `database-backup` |
 | <img width="24px" src="../icons/processed/48px/database-zap.png" /> | `database-zap` |
 | <img width="24px" src="../icons/processed/48px/database.png" /> | `database` |
@@ -635,6 +666,10 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/file-bar-chart-2.png" /> | `file-bar-chart-2` |
 | <img width="24px" src="../icons/processed/48px/file-bar-chart.png" /> | `file-bar-chart` |
 | <img width="24px" src="../icons/processed/48px/file-box.png" /> | `file-box` |
+| <img width="24px" src="../icons/processed/48px/file-chart-column-increasing.png" /> | `file-chart-column-increasing` |
+| <img width="24px" src="../icons/processed/48px/file-chart-column.png" /> | `file-chart-column` |
+| <img width="24px" src="../icons/processed/48px/file-chart-line.png" /> | `file-chart-line` |
+| <img width="24px" src="../icons/processed/48px/file-chart-pie.png" /> | `file-chart-pie` |
 | <img width="24px" src="../icons/processed/48px/file-check-2.png" /> | `file-check-2` |
 | <img width="24px" src="../icons/processed/48px/file-check.png" /> | `file-check` |
 | <img width="24px" src="../icons/processed/48px/file-clock.png" /> | `file-clock` |
@@ -717,6 +752,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/folder-check.png" /> | `folder-check` |
 | <img width="24px" src="../icons/processed/48px/folder-clock.png" /> | `folder-clock` |
 | <img width="24px" src="../icons/processed/48px/folder-closed.png" /> | `folder-closed` |
+| <img width="24px" src="../icons/processed/48px/folder-code.png" /> | `folder-code` |
 | <img width="24px" src="../icons/processed/48px/folder-cog.png" /> | `folder-cog` |
 | <img width="24px" src="../icons/processed/48px/folder-dot.png" /> | `folder-dot` |
 | <img width="24px" src="../icons/processed/48px/folder-down.png" /> | `folder-down` |
@@ -843,10 +879,14 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/hospital.png" /> | `hospital` |
 | <img width="24px" src="../icons/processed/48px/hotel.png" /> | `hotel` |
 | <img width="24px" src="../icons/processed/48px/hourglass.png" /> | `hourglass` |
+| <img width="24px" src="../icons/processed/48px/house-plug.png" /> | `house-plug` |
+| <img width="24px" src="../icons/processed/48px/house-plus.png" /> | `house-plus` |
+| <img width="24px" src="../icons/processed/48px/house.png" /> | `house` |
 | <img width="24px" src="../icons/processed/48px/ice-cream-2.png" /> | `ice-cream-2` |
 | <img width="24px" src="../icons/processed/48px/ice-cream-bowl.png" /> | `ice-cream-bowl` |
 | <img width="24px" src="../icons/processed/48px/ice-cream-cone.png" /> | `ice-cream-cone` |
 | <img width="24px" src="../icons/processed/48px/ice-cream.png" /> | `ice-cream` |
+| <img width="24px" src="../icons/processed/48px/id-card.png" /> | `id-card` |
 | <img width="24px" src="../icons/processed/48px/image-down.png" /> | `image-down` |
 | <img width="24px" src="../icons/processed/48px/image-minus.png" /> | `image-minus` |
 | <img width="24px" src="../icons/processed/48px/image-off.png" /> | `image-off` |
@@ -905,6 +945,8 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/layout-template.png" /> | `layout-template` |
 | <img width="24px" src="../icons/processed/48px/leaf.png" /> | `leaf` |
 | <img width="24px" src="../icons/processed/48px/leafy-green.png" /> | `leafy-green` |
+| <img width="24px" src="../icons/processed/48px/lectern.png" /> | `lectern` |
+| <img width="24px" src="../icons/processed/48px/letter-text.png" /> | `letter-text` |
 | <img width="24px" src="../icons/processed/48px/library-big.png" /> | `library-big` |
 | <img width="24px" src="../icons/processed/48px/library-square.png" /> | `library-square` |
 | <img width="24px" src="../icons/processed/48px/library.png" /> | `library` |
@@ -917,6 +959,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/link-2.png" /> | `link-2` |
 | <img width="24px" src="../icons/processed/48px/link.png" /> | `link` |
 | <img width="24px" src="../icons/processed/48px/linkedin.png" /> | `linkedin` |
+| <img width="24px" src="../icons/processed/48px/list-check.png" /> | `list-check` |
 | <img width="24px" src="../icons/processed/48px/list-checks.png" /> | `list-checks` |
 | <img width="24px" src="../icons/processed/48px/list-collapse.png" /> | `list-collapse` |
 | <img width="24px" src="../icons/processed/48px/list-end.png" /> | `list-end` |
@@ -945,6 +988,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/lock.png" /> | `lock` |
 | <img width="24px" src="../icons/processed/48px/log-in.png" /> | `log-in` |
 | <img width="24px" src="../icons/processed/48px/log-out.png" /> | `log-out` |
+| <img width="24px" src="../icons/processed/48px/logs.png" /> | `logs` |
 | <img width="24px" src="../icons/processed/48px/lollipop.png" /> | `lollipop` |
 | <img width="24px" src="../icons/processed/48px/luggage.png" /> | `luggage` |
 | <img width="24px" src="../icons/processed/48px/m-square.png" /> | `m-square` |
@@ -960,7 +1004,16 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/mail.png" /> | `mail` |
 | <img width="24px" src="../icons/processed/48px/mailbox.png" /> | `mailbox` |
 | <img width="24px" src="../icons/processed/48px/mails.png" /> | `mails` |
+| <img width="24px" src="../icons/processed/48px/map-pin-check-inside.png" /> | `map-pin-check-inside` |
+| <img width="24px" src="../icons/processed/48px/map-pin-check.png" /> | `map-pin-check` |
+| <img width="24px" src="../icons/processed/48px/map-pin-house.png" /> | `map-pin-house` |
+| <img width="24px" src="../icons/processed/48px/map-pin-minus-inside.png" /> | `map-pin-minus-inside` |
+| <img width="24px" src="../icons/processed/48px/map-pin-minus.png" /> | `map-pin-minus` |
 | <img width="24px" src="../icons/processed/48px/map-pin-off.png" /> | `map-pin-off` |
+| <img width="24px" src="../icons/processed/48px/map-pin-plus-inside.png" /> | `map-pin-plus-inside` |
+| <img width="24px" src="../icons/processed/48px/map-pin-plus.png" /> | `map-pin-plus` |
+| <img width="24px" src="../icons/processed/48px/map-pin-x-inside.png" /> | `map-pin-x-inside` |
+| <img width="24px" src="../icons/processed/48px/map-pin-x.png" /> | `map-pin-x` |
 | <img width="24px" src="../icons/processed/48px/map-pin.png" /> | `map-pin` |
 | <img width="24px" src="../icons/processed/48px/map-pinned.png" /> | `map-pinned` |
 | <img width="24px" src="../icons/processed/48px/map.png" /> | `map` |
@@ -1006,6 +1059,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/mic-off.png" /> | `mic-off` |
 | <img width="24px" src="../icons/processed/48px/mic-vocal.png" /> | `mic-vocal` |
 | <img width="24px" src="../icons/processed/48px/mic.png" /> | `mic` |
+| <img width="24px" src="../icons/processed/48px/microchip.png" /> | `microchip` |
 | <img width="24px" src="../icons/processed/48px/microscope.png" /> | `microscope` |
 | <img width="24px" src="../icons/processed/48px/microwave.png" /> | `microwave` |
 | <img width="24px" src="../icons/processed/48px/milestone.png" /> | `milestone` |
@@ -1017,6 +1071,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/minus-square.png" /> | `minus-square` |
 | <img width="24px" src="../icons/processed/48px/minus.png" /> | `minus` |
 | <img width="24px" src="../icons/processed/48px/monitor-check.png" /> | `monitor-check` |
+| <img width="24px" src="../icons/processed/48px/monitor-cog.png" /> | `monitor-cog` |
 | <img width="24px" src="../icons/processed/48px/monitor-dot.png" /> | `monitor-dot` |
 | <img width="24px" src="../icons/processed/48px/monitor-down.png" /> | `monitor-down` |
 | <img width="24px" src="../icons/processed/48px/monitor-off.png" /> | `monitor-off` |
@@ -1079,6 +1134,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/octagon-pause.png" /> | `octagon-pause` |
 | <img width="24px" src="../icons/processed/48px/octagon-x.png" /> | `octagon-x` |
 | <img width="24px" src="../icons/processed/48px/octagon.png" /> | `octagon` |
+| <img width="24px" src="../icons/processed/48px/omega.png" /> | `omega` |
 | <img width="24px" src="../icons/processed/48px/option.png" /> | `option` |
 | <img width="24px" src="../icons/processed/48px/orbit.png" /> | `orbit` |
 | <img width="24px" src="../icons/processed/48px/origami.png" /> | `origami` |
@@ -1131,9 +1187,11 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/paw-print.png" /> | `paw-print` |
 | <img width="24px" src="../icons/processed/48px/pc-case.png" /> | `pc-case` |
 | <img width="24px" src="../icons/processed/48px/pen-line.png" /> | `pen-line` |
+| <img width="24px" src="../icons/processed/48px/pen-off.png" /> | `pen-off` |
 | <img width="24px" src="../icons/processed/48px/pen-tool.png" /> | `pen-tool` |
 | <img width="24px" src="../icons/processed/48px/pen.png" /> | `pen` |
 | <img width="24px" src="../icons/processed/48px/pencil-line.png" /> | `pencil-line` |
+| <img width="24px" src="../icons/processed/48px/pencil-off.png" /> | `pencil-off` |
 | <img width="24px" src="../icons/processed/48px/pencil-ruler.png" /> | `pencil-ruler` |
 | <img width="24px" src="../icons/processed/48px/pencil.png" /> | `pencil` |
 | <img width="24px" src="../icons/processed/48px/pentagon.png" /> | `pentagon` |
@@ -1142,6 +1200,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/percent-square.png" /> | `percent-square` |
 | <img width="24px" src="../icons/processed/48px/percent.png" /> | `percent` |
 | <img width="24px" src="../icons/processed/48px/person-standing.png" /> | `person-standing` |
+| <img width="24px" src="../icons/processed/48px/philippine-peso.png" /> | `philippine-peso` |
 | <img width="24px" src="../icons/processed/48px/phone-call.png" /> | `phone-call` |
 | <img width="24px" src="../icons/processed/48px/phone-forwarded.png" /> | `phone-forwarded` |
 | <img width="24px" src="../icons/processed/48px/phone-incoming.png" /> | `phone-incoming` |
@@ -1161,6 +1220,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/pilcrow-right.png" /> | `pilcrow-right` |
 | <img width="24px" src="../icons/processed/48px/pilcrow-square.png" /> | `pilcrow-square` |
 | <img width="24px" src="../icons/processed/48px/pilcrow.png" /> | `pilcrow` |
+| <img width="24px" src="../icons/processed/48px/pill-bottle.png" /> | `pill-bottle` |
 | <img width="24px" src="../icons/processed/48px/pill.png" /> | `pill` |
 | <img width="24px" src="../icons/processed/48px/pin-off.png" /> | `pin-off` |
 | <img width="24px" src="../icons/processed/48px/pin.png" /> | `pin` |
@@ -1192,6 +1252,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/power-square.png" /> | `power-square` |
 | <img width="24px" src="../icons/processed/48px/power.png" /> | `power` |
 | <img width="24px" src="../icons/processed/48px/presentation.png" /> | `presentation` |
+| <img width="24px" src="../icons/processed/48px/printer-check.png" /> | `printer-check` |
 | <img width="24px" src="../icons/processed/48px/printer.png" /> | `printer` |
 | <img width="24px" src="../icons/processed/48px/projector.png" /> | `projector` |
 | <img width="24px" src="../icons/processed/48px/proportions.png" /> | `proportions` |
@@ -1266,6 +1327,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/satellite-dish.png" /> | `satellite-dish` |
 | <img width="24px" src="../icons/processed/48px/satellite.png" /> | `satellite` |
 | <img width="24px" src="../icons/processed/48px/save-all.png" /> | `save-all` |
+| <img width="24px" src="../icons/processed/48px/save-off.png" /> | `save-off` |
 | <img width="24px" src="../icons/processed/48px/save.png" /> | `save` |
 | <img width="24px" src="../icons/processed/48px/scale-3d.png" /> | `scale-3d` |
 | <img width="24px" src="../icons/processed/48px/scale.png" /> | `scale` |
@@ -1274,6 +1336,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/scan-eye.png" /> | `scan-eye` |
 | <img width="24px" src="../icons/processed/48px/scan-face.png" /> | `scan-face` |
 | <img width="24px" src="../icons/processed/48px/scan-line.png" /> | `scan-line` |
+| <img width="24px" src="../icons/processed/48px/scan-qr-code.png" /> | `scan-qr-code` |
 | <img width="24px" src="../icons/processed/48px/scan-search.png" /> | `scan-search` |
 | <img width="24px" src="../icons/processed/48px/scan-text.png" /> | `scan-text` |
 | <img width="24px" src="../icons/processed/48px/scan.png" /> | `scan` |
@@ -1293,6 +1356,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/search-slash.png" /> | `search-slash` |
 | <img width="24px" src="../icons/processed/48px/search-x.png" /> | `search-x` |
 | <img width="24px" src="../icons/processed/48px/search.png" /> | `search` |
+| <img width="24px" src="../icons/processed/48px/section.png" /> | `section` |
 | <img width="24px" src="../icons/processed/48px/send-horizontal.png" /> | `send-horizontal` |
 | <img width="24px" src="../icons/processed/48px/send-to-back.png" /> | `send-to-back` |
 | <img width="24px" src="../icons/processed/48px/send.png" /> | `send` |
@@ -1338,6 +1402,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/signal-medium.png" /> | `signal-medium` |
 | <img width="24px" src="../icons/processed/48px/signal-zero.png" /> | `signal-zero` |
 | <img width="24px" src="../icons/processed/48px/signal.png" /> | `signal` |
+| <img width="24px" src="../icons/processed/48px/signature.png" /> | `signature` |
 | <img width="24px" src="../icons/processed/48px/signpost-big.png" /> | `signpost-big` |
 | <img width="24px" src="../icons/processed/48px/signpost.png" /> | `signpost` |
 | <img width="24px" src="../icons/processed/48px/siren.png" /> | `siren` |
@@ -1389,6 +1454,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/square-arrow-up.png" /> | `square-arrow-up` |
 | <img width="24px" src="../icons/processed/48px/square-asterisk.png" /> | `square-asterisk` |
 | <img width="24px" src="../icons/processed/48px/square-bottom-dashed-scissors.png" /> | `square-bottom-dashed-scissors` |
+| <img width="24px" src="../icons/processed/48px/square-chart-gantt.png" /> | `square-chart-gantt` |
 | <img width="24px" src="../icons/processed/48px/square-check-big.png" /> | `square-check-big` |
 | <img width="24px" src="../icons/processed/48px/square-check.png" /> | `square-check` |
 | <img width="24px" src="../icons/processed/48px/square-chevron-down.png" /> | `square-chevron-down` |
@@ -1426,6 +1492,7 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/square-slash.png" /> | `square-slash` |
 | <img width="24px" src="../icons/processed/48px/square-split-horizontal.png" /> | `square-split-horizontal` |
 | <img width="24px" src="../icons/processed/48px/square-split-vertical.png" /> | `square-split-vertical` |
+| <img width="24px" src="../icons/processed/48px/square-square.png" /> | `square-square` |
 | <img width="24px" src="../icons/processed/48px/square-stack.png" /> | `square-stack` |
 | <img width="24px" src="../icons/processed/48px/square-terminal.png" /> | `square-terminal` |
 | <img width="24px" src="../icons/processed/48px/square-user-round.png" /> | `square-user-round` |
@@ -1543,9 +1610,12 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/truck.png" /> | `truck` |
 | <img width="24px" src="../icons/processed/48px/turtle.png" /> | `turtle` |
 | <img width="24px" src="../icons/processed/48px/tv-2.png" /> | `tv-2` |
+| <img width="24px" src="../icons/processed/48px/tv-minimal-play.png" /> | `tv-minimal-play` |
+| <img width="24px" src="../icons/processed/48px/tv-minimal.png" /> | `tv-minimal` |
 | <img width="24px" src="../icons/processed/48px/tv.png" /> | `tv` |
 | <img width="24px" src="../icons/processed/48px/twitch.png" /> | `twitch` |
 | <img width="24px" src="../icons/processed/48px/twitter.png" /> | `twitter` |
+| <img width="24px" src="../icons/processed/48px/type-outline.png" /> | `type-outline` |
 | <img width="24px" src="../icons/processed/48px/type.png" /> | `type` |
 | <img width="24px" src="../icons/processed/48px/umbrella-off.png" /> | `umbrella-off` |
 | <img width="24px" src="../icons/processed/48px/umbrella.png" /> | `umbrella` |
@@ -1568,10 +1638,12 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/user-check.png" /> | `user-check` |
 | <img width="24px" src="../icons/processed/48px/user-cog.png" /> | `user-cog` |
 | <img width="24px" src="../icons/processed/48px/user-minus.png" /> | `user-minus` |
+| <img width="24px" src="../icons/processed/48px/user-pen.png" /> | `user-pen` |
 | <img width="24px" src="../icons/processed/48px/user-plus.png" /> | `user-plus` |
 | <img width="24px" src="../icons/processed/48px/user-round-check.png" /> | `user-round-check` |
 | <img width="24px" src="../icons/processed/48px/user-round-cog.png" /> | `user-round-cog` |
 | <img width="24px" src="../icons/processed/48px/user-round-minus.png" /> | `user-round-minus` |
+| <img width="24px" src="../icons/processed/48px/user-round-pen.png" /> | `user-round-pen` |
 | <img width="24px" src="../icons/processed/48px/user-round-plus.png" /> | `user-round-plus` |
 | <img width="24px" src="../icons/processed/48px/user-round-search.png" /> | `user-round-search` |
 | <img width="24px" src="../icons/processed/48px/user-round-x.png" /> | `user-round-x` |
@@ -1620,7 +1692,10 @@ This file contains an auto-generated index of icons, paired with their internal 
 | <img width="24px" src="../icons/processed/48px/wheat-off.png" /> | `wheat-off` |
 | <img width="24px" src="../icons/processed/48px/wheat.png" /> | `wheat` |
 | <img width="24px" src="../icons/processed/48px/whole-word.png" /> | `whole-word` |
+| <img width="24px" src="../icons/processed/48px/wifi-high.png" /> | `wifi-high` |
+| <img width="24px" src="../icons/processed/48px/wifi-low.png" /> | `wifi-low` |
 | <img width="24px" src="../icons/processed/48px/wifi-off.png" /> | `wifi-off` |
+| <img width="24px" src="../icons/processed/48px/wifi-zero.png" /> | `wifi-zero` |
 | <img width="24px" src="../icons/processed/48px/wifi.png" /> | `wifi` |
 | <img width="24px" src="../icons/processed/48px/wind.png" /> | `wind` |
 | <img width="24px" src="../icons/processed/48px/wine-off.png" /> | `wine-off` |

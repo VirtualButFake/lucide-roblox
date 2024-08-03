@@ -21,11 +21,6 @@ if not apiKey or not uploadType or not uploadId then
 	return
 end
 
-if #apiKey ~= 48 then
-	logger.Error("Invalid API key (expected: 48 characters)")
-	return
-end
-
 if uploadType ~= "group" and uploadType ~= "user" then
 	logger.Error("Invalid upload type (expected: group or user)")
 	return

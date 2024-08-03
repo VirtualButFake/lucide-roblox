@@ -44,7 +44,7 @@ The complete list of icons can be found [here](./md/icon-index.md)
 In order to update the definitions of the icons, you can run the following command:
 
 ```bash
-lune run lune/setup.lua
+lune run lune/setup
 ```
 
 This will pull the latest icons, process them, add them to Tarmac and update the icons in the package. If any new icons appear, feel free to open a PR to add them.

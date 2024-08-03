@@ -1,5 +1,5 @@
 local input = "icons/processed"
-local output = "src/icons.lua"
+local output = "src/icons.luau"
 
 local serde = require("@lune/serde")
 local fs = require("@lune/fs")
