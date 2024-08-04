@@ -23,10 +23,7 @@ end
 
 local hasDarkLua = fs.isFile(".darklua.json")
 
-process.env.RBLX_DEV = "false"
-
 if not fs.isDir("build") then
-	print("Creating build directory..")
 	executeCommand("rojo", { "sourcemap", "sourcemap.project.json", "-o", "sourcemap.json" })
 	executeCommand("darklua", { "process", "src", "build" })
 end
