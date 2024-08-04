@@ -9,8 +9,6 @@ A simple library for easy access to the entire [Lucide Icons](https://lucide.dev
 
 </div>
 
-##
-
 [![Wally](./assets/wally-badge.svg)](https://wally.run/package/virtualbutfake/lucide-roblox)
 [![Roblox](./assets/roblox-badge.svg)](https://github.com/virtualbutfake/lucide-roblox/releases/)
 
